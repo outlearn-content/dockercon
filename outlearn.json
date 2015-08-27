@@ -1,0 +1,23 @@
+{
+  "olpVersion" : "0.5",
+
+  "paths" : [
+    {
+      "name" : "all-modules-[username]",
+      "title" : "All Modules by [Firstname Lastname]",
+      "description" : "See in one place all the modules published by [Firstname Lastname].",
+      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
+      "privacy" : "public",
+      "pages" : [
+        {"module" : "sample-module"}
+      ]
+    }
+  ],
+
+  "modules" : [
+    {"olm" : "./modules/sample-module.md"}
+  ],
+
+  "assets" : [
+  ]
+}
