@@ -3,19 +3,19 @@
 
   "paths" : [
     {
-      "name" : "all-modules-[username]",
-      "title" : "All Modules by [Firstname Lastname]",
-      "description" : "See in one place all the modules published by [Firstname Lastname].",
+      "name" : "all-modules-docker",
+      "title" : "All Modules by DockerCon SF 2015",
+      "description" : "See in one place all the modules published by DockerCon SF 2015.",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
       "privacy" : "public",
       "pages" : [
-        {"module" : "sample-module"}
+        {"module" : "getting-started-with-docker"}
       ]
     }
   ],
 
   "modules" : [
-    {"olm" : "./modules/sample-module.md"}
+    {"olm" : "./modules/getting-started-with-docker.md"}
   ],
 
   "assets" : [
