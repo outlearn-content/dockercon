@@ -2,7 +2,7 @@
 {
 "name" : "reliably-shipping-containers",
 "version" : "0.1",
-"title" : "Reliably shipping containers",
+"title" : "Reliably shipping containers in a resource rich world using Titan",
 "description" : "Learn about the latest developments in the Docker world.",
 "freshnessDate" : 2015-06-24,
 "homepage" : "http://www.slideshare.net/Docker/dockercon-sf-2015-reliablilty-shippin?qid=5de403f3-fd1b-49a4-ade8-ae62486af1c2&v=default&b=&from_search=1",
