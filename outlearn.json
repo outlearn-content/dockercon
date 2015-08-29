@@ -21,7 +21,8 @@
         {"module" : "dockercon-15-day-1-keynote"},
         {"module" : "dockercon-15-day-2-keynote"},
         {"module" : "secure-microservice-architectures-using-docker"},
-        {"module" : "reliably-shipping-containers"}
+        {"module" : "reliably-shipping-containers"},
+        {"module" : "docker-plugins"}
 
       ]
     }
@@ -40,7 +41,8 @@
     {"olm" : "./modules/dockercon-15-day-1-keynote.md"},
     {"olm" : "./modules/dockercon-15-day-2-keynote.md"},
     {"olm" : "./modules/secure-microservice-architectures-using-docker.md"},
-    {"olm" : "./modules/reliably-shipping-containers.md"}
+    {"olm" : "./modules/reliably-shipping-containers.md"},
+    {"olm" : "./modules/docker-plugins.md"}
 
   ],
 
