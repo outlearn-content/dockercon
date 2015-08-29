@@ -13,6 +13,6 @@
 
 <!-- @section -->
 
-## Video
+## Overview
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/ri5mzIsbsY8" -->

@@ -22,7 +22,9 @@
         {"module" : "dockercon-15-day-2-keynote"},
         {"module" : "secure-microservice-architectures-using-docker"},
         {"module" : "reliably-shipping-containers"},
-        {"module" : "docker-plugins"}
+        {"module" : "docker-plugins"},
+        {"module" : "resilient-routing-and-discovery"},
+        {"module" : "interconnecting-containers-at-scale-with-NGINX"}
 
       ]
     }
@@ -42,7 +44,9 @@
     {"olm" : "./modules/dockercon-15-day-2-keynote.md"},
     {"olm" : "./modules/secure-microservice-architectures-using-docker.md"},
     {"olm" : "./modules/reliably-shipping-containers.md"},
-    {"olm" : "./modules/docker-plugins.md"}
+    {"olm" : "./modules/docker-plugins.md"},
+    {"olm" : "./modules/resilient-routing-and-discovery.md"},
+    {"olm" : "./modules/interconnecting-containers-at-scale-with-NGINX.md"}
 
   ],
 
