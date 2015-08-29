@@ -9,13 +9,39 @@
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
       "privacy" : "public",
       "pages" : [
-        {"module" : "getting-started-with-docker"}
+        {"module" : "getting-started-with-docker"},
+        {"module" : "docker-engine-1.7"},
+        {"module" : "docker-networking"},
+        {"module" : "orchestration-for-developers"},
+        {"module" : "orchestration-for-sysadmins"},
+        {"module" : "docker-registry"},
+        {"module" : "docker-hub"},
+        {"module" : "docker-security"},
+        {"module" : "docker-trusted-registry"},
+        {"module" : "dockercon-15-day-1-keynote"},
+        {"module" : "dockercon-15-day-2-keynote"},
+        {"module" : "secure-microservice-architectures-using-docker"},
+        {"module" : "reliably-shipping-containers"},
+
       ]
     }
   ],
 
   "modules" : [
-    {"olm" : "./modules/getting-started-with-docker.md"}
+    {"olm" : "./modules/getting-started-with-docker.md"},
+    {"olm" : "./modules/docker-engine-1.7.md"},
+    {"olm" : "./modules/docker-networking.md"},
+    {"olm" : "./modules/orchestration-for-developers.md"},
+    {"olm" : "./modules/orchestration-for-sysadmins.md"},
+    {"olm" : "./modules/docker-registry.md"},
+    {"olm" : "./modules/docker-hub.md"},
+    {"olm" : "./modules/docker-security.md"},
+    {"olm" : "./modules/docker-trusted-registry.md"},
+    {"olm" : "./modules/dockercon-15-day-1-keynote.md"},
+    {"olm" : "./modules/dockercon-15-day-2-keynote.md"},
+    {"olm" : "./modules/secure-microservice-architectures-using-docker.md"},
+    {"olm" : "./modules/reliably-shipping-containers.md"},
+
   ],
 
   "assets" : [
