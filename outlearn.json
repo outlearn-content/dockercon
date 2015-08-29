@@ -10,7 +10,7 @@
       "privacy" : "public",
       "pages" : [
         {"module" : "getting-started-with-docker"},
-        {"module" : "docker-engine-1.7"},
+        {"module" : "docker-engine-17"},
         {"module" : "docker-networking"},
         {"module" : "orchestration-for-developers"},
         {"module" : "orchestration-for-sysadmins"},
@@ -29,7 +29,7 @@
 
   "modules" : [
     {"olm" : "./modules/getting-started-with-docker.md"},
-    {"olm" : "./modules/docker-engine-1.7.md"},
+    {"olm" : "./modules/docker-engine-17.md"},
     {"olm" : "./modules/docker-networking.md"},
     {"olm" : "./modules/orchestration-for-developers.md"},
     {"olm" : "./modules/orchestration-for-sysadmins.md"},

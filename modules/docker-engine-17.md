@@ -1,6 +1,6 @@
 <!--
 {
-"name" : "docker-engine-1.7",
+"name" : "docker-engine-17",
 "version" : "0.1",
 "title" : "Docker Engine 1.7",
 "description" : "Learn about the latest developments in the Docker world.",
