@@ -29,7 +29,12 @@
         {"module" : "container-hacks-and-fun-images"},
         {"module" : "debugging-docker-in-production"},
         {"module" : "docker-in-the-new-york-times-newsroom"},
-        {"module" : "analytic-garage-on-docker-at-capital-one"}
+        {"module" : "analytic-garage-on-docker-at-capital-one"},
+        {"module" : "enabling-continuous-delivery-at-grubhub"},
+        {"module" : "enabling-microservices-orbitz"},
+        {"module" : "using-docker-to-keep-houses-warm"},
+        {"module" : "speeding-up-development"},
+        {"module" : "how-GE-brings-docker-into-the-enterprise"}
 
       ]
     }
@@ -56,7 +61,12 @@
     {"olm" : "./modules/container-hacks-and-fun-images.md"},
     {"olm" : "./modules/debugging-docker-in-production.md"},
     {"olm" : "./modules/docker-in-the-new-york-times-newsroom.md"},
-    {"olm" : "./modules/analytic-garage-on-docker-at-capital-one.md"}
+    {"olm" : "./modules/analytic-garage-on-docker-at-capital-one.md"},
+    {"olm" : "./modules/enabling-continuous-delivery-at-grubhub.md"},
+    {"olm" : "./modules/enabling-microservices-orbitz.md"},
+    {"olm" : "./modules/using-docker-to-keep-houses-warm.md"},
+    {"olm" : "./modules/speeding-up-development.md"},
+    {"olm" : "./modules/how-GE-brings-docker-into-the-enterprise.md"}
 
 
   ],
