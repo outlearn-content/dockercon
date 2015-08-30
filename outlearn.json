@@ -39,7 +39,12 @@
         {"module" : "paypal-goes-beyond-CI-to-production-scale-paaS-with-docker"},
         {"module" : "contribute-and-collaborate-101"},
         {"module" : "how-to-talk-to-humans"},
-        {"module" : "panel-birds-of-a-different-feather-soar-together"}
+        {"module" : "panel-birds-of-a-different-feather-soar-together"},
+        {"module" : "day-1-lightning-talks"},
+        {"module" : "how-to-create-a-new-education-in-a-digital-world"},
+        {"module" : "momops-in-devops"},
+        {"module" : "using-docker-to-drive-cultural-change-in-the-games-industry"},
+        {"module" : "day-2-lightning-talks"}
 
       ]
     }
@@ -76,7 +81,13 @@
     {"olm" : "./modules/paypal-goes-beyond-CI-to-production-scale-paaS-with-docker.md"},
     {"olm" : "./modules/contribute-and-collaborate-101.md"},
     {"olm" : "./modules/how-to-talk-to-humans.md"},
-    {"olm" : "./modules/panel-birds-of-a-different-feather-soar-together.md"}
+    {"olm" : "./modules/panel-birds-of-a-different-feather-soar-together.md"},
+    {"olm" : "./modules/day-1-lightning-talks.md"},
+    {"olm" : "./modules/how-to-create-a-new-education-in-a-digital-world.md"},
+    {"olm" : "./modules/momops-in-devops.md"},
+    {"olm" : "./modules/using-docker-to-drive-cultural-change-in-the-games-industry.md"},
+    {"olm" : "./modules/day-2-lightning-talks.md"}
+
 
 
   ],
