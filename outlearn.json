@@ -34,7 +34,12 @@
         {"module" : "enabling-microservices-orbitz"},
         {"module" : "using-docker-to-keep-houses-warm"},
         {"module" : "speeding-up-development"},
-        {"module" : "how-GE-brings-docker-into-the-enterprise"}
+        {"module" : "how-GE-brings-docker-into-the-enterprise"},
+        {"module" : "how-to-build-a-Secure-devOps-environment-for-government-and-beyond"},
+        {"module" : "paypal-goes-beyond-CI-to-production-scale-paaS-with-docker"},
+        {"module" : "contribute-and-collaborate-101"},
+        {"module" : "how-to-talk-to-humans"},
+        {"module" : "panel-birds-of-a-different-feather-soar-together"}
 
       ]
     }
@@ -66,7 +71,12 @@
     {"olm" : "./modules/enabling-microservices-orbitz.md"},
     {"olm" : "./modules/using-docker-to-keep-houses-warm.md"},
     {"olm" : "./modules/speeding-up-development.md"},
-    {"olm" : "./modules/how-GE-brings-docker-into-the-enterprise.md"}
+    {"olm" : "./modules/how-GE-brings-docker-into-the-enterprise.md"},
+    {"olm" : "./modules/how-to-build-a-Secure-devOps-environment-for-government-and-beyond.md"},
+    {"olm" : "./modules/paypal-goes-beyond-CI-to-production-scale-paaS-with-docker.md"},
+    {"olm" : "./modules/contribute-and-collaborate-101.md"},
+    {"olm" : "./modules/how-to-talk-to-humans.md"},
+    {"olm" : "./modules/panel-birds-of-a-different-feather-soar-together.md"}
 
 
   ],
