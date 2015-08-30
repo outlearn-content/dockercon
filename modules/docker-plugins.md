@@ -15,4 +15,6 @@
 
 ## Overview
 
+This talk was given at DockerCon SF 2015. 
+
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/ri5mzIsbsY8" -->

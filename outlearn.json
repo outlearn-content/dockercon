@@ -24,7 +24,12 @@
         {"module" : "reliably-shipping-containers"},
         {"module" : "docker-plugins"},
         {"module" : "resilient-routing-and-discovery"},
-        {"module" : "interconnecting-containers-at-scale-with-NGINX"}
+        {"module" : "interconnecting-containers-at-scale-with-NGINX"},
+        {"module" : "the-distributed-system-toolkit"},
+        {"module" : "container-hacks-and-fun-images"},
+        {"module" : "debugging-docker-in-production"},
+        {"module" : "docker-in-the-new-york-times-newsroom"},
+        {"module" : "analytic-garage-on-docker-at-capital-one"}
 
       ]
     }
@@ -46,7 +51,13 @@
     {"olm" : "./modules/reliably-shipping-containers.md"},
     {"olm" : "./modules/docker-plugins.md"},
     {"olm" : "./modules/resilient-routing-and-discovery.md"},
-    {"olm" : "./modules/interconnecting-containers-at-scale-with-NGINX.md"}
+    {"olm" : "./modules/interconnecting-containers-at-scale-with-NGINX.md"},
+    {"olm" : "./modules/the-distributed-system-toolkit.md"},
+    {"olm" : "./modules/container-hacks-and-fun-images.md"},
+    {"olm" : "./modules/debugging-docker-in-production.md"},
+    {"olm" : "./modules/docker-in-the-new-york-times-newsroom.md"},
+    {"olm" : "./modules/analytic-garage-on-docker-at-capital-one.md"}
+
 
   ],
 
