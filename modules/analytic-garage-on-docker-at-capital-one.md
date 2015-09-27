@@ -13,6 +13,6 @@
 
 ## Analytic Garage on Docker at Capital One
 
-This talk was given at DockerCon SF 2015. You can follow along with the [slides for the talk](http://www.slideshare.net/Docker/cap1-slideshare?qid=eb5f8bad-01ca-4112-ad9c-dfc45a42f31e&v=qf1&b=&from_search=1).
+This talk was given at DockerCon SF 2015. You can follow along with the [slides for the talk](<iframe src="//www.slideshare.net/slideshow/embed_code/key/3HagrBwR1iMfnJ" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Docker/cap1-slideshare" title="DockerCon SF 2015: Capital One Docker analytic garage" target="_blank">DockerCon SF 2015: Capital One Docker analytic garage</a> </strong> from <strong><a href="//www.slideshare.net/Docker" target="_blank">Docker, Inc.</a></strong> </div>).
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/ogDa2-A1y9U" -->
