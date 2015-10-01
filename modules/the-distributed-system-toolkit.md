@@ -5,16 +5,14 @@
 "title" : "The distributed system toolkit: Container patterns for modular distributed system design",
 "description" : "Learn about the latest developments in the Docker world.",
 "freshnessDate" : 2015-06-24,
-"homepage" : "http://www.slideshare.net/Docker/slideshare-burns?qid=229557bb-9d9d-4a1f-a705-b43eeb1502d2&v=default&b=&from_search=1",
-"canonicalSource" : "http://www.slideshare.net/Docker/slideshare-burns?qid=229557bb-9d9d-4a1f-a705-b43eeb1502d2&v=default&b=&from_search=1",
 "license" : "All Rights Reserved"
 }
 -->
 
 <!-- @section -->
 
-## Overview
-
-This talk was given at DockerCon SF 2015. You can follow along with the [slides for the talk](http://www.slideshare.net/Docker/slideshare-burns?qid=229557bb-9d9d-4a1f-a705-b43eeb1502d2&v=default&b=&from_search=1).
+## The distributed system toolkit: Container patterns for modular distributed system design
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/Ph3t8jIt894" -->
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4N17QyGRyHHzLJ" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Docker/slideshare-burns" title="DockerCon SF 2015: The Distributed System Toolkit" target="_blank">DockerCon SF 2015: The Distributed System Toolkit</a> </strong> from <strong><a href="//www.slideshare.net/Docker" target="_blank">Docker, Inc.</a></strong> </div>

@@ -5,16 +5,14 @@
 "title" : "Using Docker to Keep Houses Warm: Highly Distributed Micro-Datacenters",
 "description" : "Learn about the latest developments in the Docker world.",
 "freshnessDate" : 2015-06-24,
-"homepage" : "http://www.slideshare.net/Docker/dockercon-sf-2015-heat-your-home-with-docker?qid=f1bdd951-e710-4724-ae9c-9f1406f0be7e&v=qf1&b=&from_search=1",
-"canonicalSource" : "http://www.slideshare.net/Docker/dockercon-sf-2015-heat-your-home-with-docker?qid=f1bdd951-e710-4724-ae9c-9f1406f0be7e&v=qf1&b=&from_search=1",
 "license" : "All Rights Reserved"
 }
 -->
 
 <!-- @section -->
 
-## Overview
-
-This talk was given at DockerCon SF 2015. You can follow along with the [slides for the talk](http://www.slideshare.net/Docker/dockercon-sf-2015-heat-your-home-with-docker?qid=f1bdd951-e710-4724-ae9c-9f1406f0be7e&v=qf1&b=&from_search=1).
+## Using Docker to Keep Houses Warm: Highly Distributed Micro-Datacenters
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/95VDp1o_4dI" -->
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/8Ld8001zRHuCAs" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Docker/dockercon-sf-2015-heat-your-home-with-docker" title="DockerCon SF 2015: Using Docker to Keep Houses Warm: Highly Distributed Micro-Datacenters" target="_blank">DockerCon SF 2015: Using Docker to Keep Houses Warm: Highly Distributed Micro-Datacenters</a> </strong> from <strong><a href="//www.slideshare.net/Docker" target="_blank">Docker, Inc.</a></strong> </div>
