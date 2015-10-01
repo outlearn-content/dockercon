@@ -5,16 +5,14 @@
 "title" : "DockerCon 15 - Day 2 Keynote",
 "description" : "Learn about the latest developments in the Docker world.",
 "freshnessDate" : 2015-06-24,
-"homepage" : "http://www.slideshare.net/Docker/dockercon-15-keynote-day-2?qid=6d405ad3-ffcf-4fe1-b728-9e62a911afea&v=qf1&b=&from_search=1",
-"canonicalSource" : "http://www.slideshare.net/Docker/dockercon-15-keynote-day-2?qid=6d405ad3-ffcf-4fe1-b728-9e62a911afea&v=qf1&b=&from_search=1",
 "license" : "All Rights Reserved"
 }
 -->
 
 <!-- @section -->
 
-## Overview
-
-This talk was given at DockerCon SF 2015. You can follow along with the [slides for the talk](http://www.slideshare.net/Docker/dockercon-15-keynote-day-2?qid=6d405ad3-ffcf-4fe1-b728-9e62a911afea&v=qf1&b=&from_search=1).
+## DockerCon 15 - Day 2 Keynote
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/8vSPpPSd00w" -->
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2fqApBgj3SvSkO" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Docker/dockercon-15-keynote-day-2" title="DockerCon 15 Keynote - Day 2" target="_blank">DockerCon 15 Keynote - Day 2</a> </strong> from <strong><a href="//www.slideshare.net/Docker" target="_blank">Docker, Inc.</a></strong> </div>
