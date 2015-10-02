@@ -5,16 +5,16 @@
 "title" : "Day 1 Lightning Talks",
 "description" : "Learn about the latest developments in the Docker world.",
 "freshnessDate" : 2015-06-24,
-"homepage" : "http://www.slideshare.net/WeihanWang1/dockercon15-ship-containers?qid=4e41165c-bcf5-4f35-aa88-92ea25ccd8d3&v=default&b=&from_search=1",
-"canonicalSource" : "http://www.slideshare.net/WeihanWang1/dockercon15-ship-containers?qid=4e41165c-bcf5-4f35-aa88-92ea25ccd8d3&v=default&b=&from_search=1",
 "license" : "All Rights Reserved"
 }
 -->
 
 <!-- @section -->
 
-## Overview
-
-This talk was given at DockerCon SF 2015. You can follow along with the [slides for the talk](http://www.slideshare.net/WeihanWang1/dockercon15-ship-containers?qid=4e41165c-bcf5-4f35-aa88-92ea25ccd8d3&v=default&b=&from_search=1).
+## Day 1 Lightning Talks
 
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/fNhrSMFko78" -->
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/LJTsVj14UcUaPN" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/WeihanWang1/dockercon15-ship-containers" title="DockerCon&#x27;15: Shipping Containers to Enterprise Customers" target="_blank">DockerCon&#x27;15: Shipping Containers to Enterprise Customers</a> </strong> from <strong><a href="//www.slideshare.net/WeihanWang1" target="_blank">Weihan Wang</a></strong> </div>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/zL0V8BFvfTHoCs" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Docker/dockercon-sf2015-maintaining-the-official-nodejs-docker-image" title="DockerCon SF 2015: Maintaining the official node.js docker image" target="_blank">DockerCon SF 2015: Maintaining the official node.js docker image</a> </strong> from <strong><a href="//www.slideshare.net/Docker" target="_blank">Docker, Inc.</a></strong> </div>
