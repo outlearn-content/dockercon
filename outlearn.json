@@ -3,7 +3,7 @@
 
   "paths" : [
     {
-      "name" : "all-modules-docker",
+      "name" : "dockercon-sf2015",
       "title" : "All Modules by DockerCon SF 2015",
       "description" : "See in one place all the modules published by DockerCon SF 2015.",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
